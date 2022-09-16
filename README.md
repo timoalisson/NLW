@@ -17,4 +17,4 @@ Projeto construído no evento Next Level Week da RocketSeat.
 
 ## 🚀Contato
 
-timoalisson@gmail
+- timoalisson@gmail
