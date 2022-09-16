@@ -7,23 +7,25 @@
 ul{
     list-style: none;
 }
+
 body{
      background-image: url(./assets/bg.jpg) ;
      background-position: top center;
      background-size: 100% auto;
      background-repeat: no-repeat;
      background-color: #121214;
-
 }
 
 body{
     line-height: 160%;
     font-family: 'inter',sans-serif;    
 }
+
 header {
     padding-top: 32px;
     height: calc(120PX + 32PX); 
 }
+
 header div{
     width: 120px;
     margin: auto;
@@ -37,9 +39,11 @@ header div{
     transition: transform .3s;
 
 }
+
 header div:hover{
     transform: scale(1.1);
 }
+
 header div img {
     width: 100%;
     border-radius: 50%;
@@ -53,10 +57,8 @@ main{
     display: grid;   /* outra forma de deixar em coluna*/
     /*flex-direction: column;  1 froma de deixa em coluna*/
     gap: 24px;
-
-     
+    
 }
-
 
 section{
     color: white;
@@ -91,6 +93,7 @@ section ul{
     margin-top: 24px;
 
 }
+
 section ul li{
     transition: transform .3s;
 }
