@@ -9,12 +9,12 @@ Projeto construído no evento Next Level Week da RocketSeat.
 
 [Clique aqui para acessar](https://timoalisson.github.io/NLW-eSports-Explorer/)
 
-## Tecnologias
+## 🚀Tecnologias
 
 - HTML
 - CSS
 - Git e Github
 
-## Contato
+## 🚀Contato
 
 timoalisson@gmail
