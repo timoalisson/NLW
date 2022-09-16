@@ -7,7 +7,7 @@
 
 Projeto construído no evento Next Level Week da RocketSeat.
 
-[Clique aqui para acessar]
+[Clique aqui para acessar](https://timoalisson.github.io/NLW-eSports-Explorer/)
 
 ## Tecnologias
 
